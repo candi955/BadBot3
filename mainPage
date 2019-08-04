@@ -1,0 +1,78 @@
+# Attempting to practice the creation of a ChatBot utilizing ChatterBot
+
+# 8/2/2019 @ 9:30am I am starting by trying to come up with business ideas for cost cutting that have a sense of humor.
+# 9:52am I think I got some good ideas off of the following reference:
+# https://firstquarterfinance.com/funny-team-names-for-work/
+# I am basing the idea of the business off of the famous restaurant Dicks Last Resort, the sort of company that
+# customers call with an idea that there is going to be sarcasm involved in the business model already.
+# I have decided to name my business Risky Business
+# 10:08 I have created three initial training data files via text file in my project folder.
+# Reference for this practice: https://www.youtube.com/watch?v=3k8OFy-etoo
+# Other references to note so far:
+# UAT instructor video
+# https://www.youtube.com/watch?v=3k8OFy-etoo
+# https://chatterbot.readthedocs.io/en/stable/training.html
+# Doing the closing remark; had to look up a good phrase for this one.  Following reference:
+# https://www.quora.com/What-is-the-most-sarcastic-phrase-to-thank-someone-with
+# Was able so far to install ChatterBot via Pycharm settings, although I've read to do pip3 install chatterbot.
+# So far I only have Anaconda (conda) on this computer, so we will see if I need to add pip)
+# 11:27 The code is built and working.  Now I need more training datasets.
+# Lists of dataset references are below:
+# for question and answer dataset
+# https://intercom.help/dsm-tool/en/articles/1197180-customer-service-common-questions-and-answers
+# All other datasets made up, although they sometimes reference department title from
+# https://firstquarterfinance.com/funny-team-names-for-work/
+# 8/3/2019 @ 23:41 I have begun to make new training datasets that are more accurate to my project. The
+# outside datasets seemed to be causing a lot of errors.  References for current datasets are listed above.
+# I got rid of quite a few of the datasets.
+# 8/4/2019 @ 01:00am I ran into several errors that state "line >>, in <module> from .chatterbot import chatterbot
+# I moved the project to another folder, and am still getting the error.  I am trying to figure out where it
+# might be coming from. I think I will continue tomorrow.
+
+# method to train the chatbot and the chatbot
+from chatterbot.trainers import ListTrainer
+from chatterbot import ChatBot
+
+class BadBotTalking():
+    def _mybadbot_(self):
+        BadBot = ChatBot('BadBot:')  # create the chatbot
+
+        trainer = ListTrainer(BadBot)
+
+        # Files I created to train the bot
+        chat1 = open('KickingAssetsAuditSmash_Intro.txt', 'r').readlines()
+        chat2 = open('KickingAssetsCPA_Intro.txt', 'r').readlines()
+        chat3 = open('KickingAssetsDeathTaxes_Intro.txt', 'r').readlines()
+        chat4 = open('question_answer_pairs.txt', 'r').readlines()
+
+        trainer.train(chat1)
+        trainer.train(chat2)
+        trainer.train(chat3)
+        trainer.train(chat4)
+
+        # starting the conversation
+        print('Hi, my name is BadBot, with the Beck and Call Department at Risky Business, LLC.How can I challenge you today?')
+
+        getStarted = True
+        while getStarted == True:
+            try:
+                request = input('Stooge: ')  # to capture the user's typing
+                if request == "bye":
+                    getStarted = False
+                    BadBot_response = "I don't always say thank you, but when I do... you're welcome."
+
+                else:
+                    BadBot_response = BadBot.get_response(request)
+                    print("BadBot:", BadBot_response)
+                    # Press ctrl-c or ctrl-d on the keyboard to exit
+            except (KeyboardInterrupt, EOFError, SystemExit):
+                break
+
+BadBotTalking()
+
+# creating variable which will be used to call upon methods from the BadBotTalking() class
+callingBot = BadBotTalking()
+
+# calling on the _mybadbot_ method
+
+callingBot._mybadbot_()
