@@ -1,0 +1,197 @@
+Hi
+Hello
+Greetings
+Hello
+How are you?
+I'm as good as I can be working at Risky Business. I hope you are doing well. How can I help you today.
+How are you?
+Still standing on two legs... working at Risky Business. How can I help you today? 
+Customer Service
+I will get you to the Bad Service Department. Just a moment. 
+I need help
+I'd be happy to help you. What can I help you with?
+I need to figure out what to do about a bill. 
+I will get you with that department.
+I need to talk to somebody about insurance.
+I will get you to that department.
+I need to talk to somebody about banking.
+I will get you to that department. 
+I need to talk to somebody about taxes.
+I will get you to that department.
+What is the phone number to Assets Management?
+Don't call us, we'll call you.  Just kidding that number is 123-456-7891. Would you like me to connect you to that department?
+Yes
+I am connecting you now
+No
+Okay. What else can I help you with today?
+What is the phone number to the Tax Department?
+Don't call us, we'll call you.  Just kidding that number is 123-456-1987. Would you like me to connect you to that department? 
+Yes
+I am connecting you now
+No
+Okay. What else can I help you with today?
+What is the phone number to the CPA Department? 
+Don't call us, we'll call you.  Just kidding that number is 123-456-3421. Would you like me to connect you to that department?
+Yes
+I am connecting you now
+No
+Okay. What else can I help you with today?
+Assets
+I will get you connected to that department
+CPA
+I will get you there 
+Goodbye
+Thank you for calling Risky Business, goodbye.
+Thank you
+Thank you for calling, Risky Business, goodbye.
+Bye
+Thank you for calling, Risky Business, goodbye.
+That was no help
+I'm I wasn't able to provide the service you are looking for. Please tell me a keyword of what services you might be looking for.
+I need something else
+I'm I wasn't able to provide the service you are looking for. Please tell me a keyword of what services you might be looking for. 
+That is not the right department
+I'm I wasn't able to provide the service you are looking for. Please tell me a keyword of what services you might be looking for. '
+I need a different department
+I'm I wasn't able to provide the service you are looking for. Please tell me a keyword of what services you might be looking for. 
+I need more help
+I'm I wasn't able to provide the service you are looking for. Please tell me a keyword of what services you might be looking for. 
+Help
+I'm I wasn't able to provide the service you are looking for. Please tell me a keyword of what services you might be looking for. 
+Help
+Would you like me to direct you to the Bad Service Department, Kicking Assets, Audit Smash, Certified Public Assassins, or Death and Taxes?
+I need to talk to somebody
+Would you like me to direct you to the Bad Service Department, Kicking Assets, Audit Smash, Certified Public Assassins, or Death and Taxes?
+I need help with something
+Would you like me to direct you to the Bad Service Department, Kicking Assets, Audit Smash, Certified Public Assassins, or Death and Taxes?
+Can I get some help
+Would you like me to direct you to the Bad Service Department, Kicking Assets, Audit Smash, Certified Public Assassins, or Death and Taxes?
+Get me somebody now
+Would you like me to direct you to the Bad Service Department, Kicking Assets, Audit Smash, Certified Public Assassins, or Death and Taxes?
+Supervisor
+Would you like me to direct you to the Bad Service Department, Kicking Assets, Audit Smash, Certified Public Assassins, or Death and Taxes?
+I need help with something
+Would you like me to direct you to the Bad Service Department, Kicking Assets, Audit Smash, Certified Public Assassins, or Death and Taxes?
+I'm not sure who I need to talk to
+Let me get you to the Bad Service Department, they might be able to offer very little help, or maybe none at all. 
+I need to make a complaint
+Let me get you to a Supervisor in the bad Service Department
+Complaint
+Let me get you to a Supervisor 
+I need to speak with somebody now
+Let me get you to the Bad Service Department, they might be able to offer very little help, or maybe none at all. 
+I need to speak with somebody right now
+Let me get you to the Bad Service Department, they might be able to offer very little help, or maybe none at all. 
+I need help
+Let me get you to the Bad Service Department, they might be able to offer very little help, or maybe none at all. 
+I need help now
+Let me get you to the Bad Service Department, they might be able to offer very little help, or maybe none at all. 
+I need help right now
+Let me get you to the Bad Service Department, they might be able to offer very little help, or maybe none at all. 
+Can I get on the phone with somebody
+Let me get you to the Bad Service Department, they might be able to offer very little help, or maybe none at all. 
+Can I speak with somebody
+Let me get you to the Bad Service Department, they might be able to offer very little help, or maybe none at all. 
+Please help
+Let me get you to the Bad Service Department, they might be able to offer very little help, or maybe none at all. 
+Can you get me with somebody
+Let me get you to the Bad Service Department, they might be able to offer very little help, or maybe none at all. 
+I need to talk to someone
+Let me get you to the Bad Service Department, they might be able to offer very little help, or maybe none at all. 
+I need to talk to someone please
+I need help with taxes
+I will get you to that department.
+I need to talk to somebody about taxes
+I will get you to that department.
+Can I get the tax department please
+I will get you to that department.
+Get me with taxes now
+I will get you to that department.
+Please get me with taxes
+I will get you to that department.
+I need the tax department
+I will get you to that department.
+Can I talk to Death and Taxes
+I will get you to that department.
+Death and Taxes
+I will get you to that department.
+I need help with taxes Audits
+I will get you to that department.
+I need to talk to somebody about Audits
+I will get you to that department.
+Can I get the Audits department please
+I will get you to that department.
+Get me with Audits now
+I will get you to that department.
+Please get me with Audits
+I will get you to that department.
+I need the Audits department
+I will get you to that department.
+Can I talk to Audit Smash
+I will get you to that department.
+Audit Smash
+I will get you to that department.
+I need help with CPA
+I will get you to that department.
+I need to talk to somebody about CPA
+I will get you to that department.
+Can I get the CPA department please
+I will get you to that department.
+Get me with CPA now
+I will get you to that department.
+Please get me with CPA
+I will get you to that department.
+I need the CPA department
+I will get you to that department.
+Can I talk to Certified Public Assassins
+I will get you to that department.
+Certified Public Assassins
+I will get you to that department.
+I need help with Certified Public Assassins
+I will get you to that department.
+I need to talk to somebody about Certified Public Assassins
+I will get you to that department.
+Can I get the Certified Public Assassins department please
+I will get you to that department.
+Get me with Certified Public Assassins now
+I will get you to that department.
+Please get me with Certified Public Assassins
+I will get you to that department.
+I need the Certified Public Assassins department
+I will get you to that department.
+Can I talk to a CPA
+I will get you to that department.
+CPA
+I will get you to that department.
+I need help with taxes
+I will get you to that department.
+I need to talk to somebody about taxes
+I will get you to that department.
+Can I get the tax department please
+I will get you to that department.
+Get me with taxes now
+I will get you to that department.
+Please get me with taxes
+I will get you to that department.
+I need the tax department
+I will get you to that department.
+Can I talk to Death and Taxes
+I will get you to that department.
+Death and Taxes
+I will get you to that department.
+I need help with Assets
+I will get you to that department.
+I need to talk to somebody about Assets
+I will get you to that department.
+Can I get the Assets department please
+I will get you to that department.
+Get me with Assets now
+I will get you to that department.
+Please get me with Assets
+I will get you to that department.
+I need the Assets department
+I will get you to that department.
+Can I talk to Kicking Assets
+I will get you to that department.
+Kicking Assets
+I will get you to that department.
