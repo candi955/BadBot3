@@ -58,8 +58,10 @@ class BadBotTalking():
             try:
                 request = input('Stooge: ')  # to capture the user's typing
                 if request == "bye":
-                    getStarted = False
                     BadBot_response = "I don't always say thank you, but when I do... you're welcome."
+                    print(BadBot_response)
+                    getStarted = False
+
 
                 else:
                     BadBot_response = BadBot.get_response(request)
